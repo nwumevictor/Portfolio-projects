@@ -7,4 +7,3 @@ The questions this analysis seeks to answer are:
 2.	Number/percentage of adverts for each room type
 3.	Revenue for each month
 4.	Listing by boroughs 
-
